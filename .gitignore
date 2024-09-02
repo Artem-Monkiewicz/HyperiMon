@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+env/
+
+# IDE Configurations
+.idea/
+.vscode/
+
+# PyCharm specific files
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# System files
+*.log
+*.pot
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Django Migration Files
+*/migrations/
+*/migrations/*.pyc
+
+# Database data
+*.sqlite3
+
+# Environment files
+.env
+
+# Folder with static analyzer results
+.coverage
+
+# Temporary and Visio Project Files
+*.vsdx
+*~$*.vsdx
